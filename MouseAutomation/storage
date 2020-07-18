@@ -1,359 +1,898 @@
-Mouse__Move__(405, 310)
-Mouse__Move__(406, 311)
-Mouse__Move__(406, 311)
-Mouse__Move__(406, 311)
-Mouse__Move__(408, 312)
-Mouse__Move__(413, 312)
-Mouse__Move__(420, 313)
-Mouse__Move__(431, 317)
-Mouse__Move__(444, 324)
-Mouse__Move__(454, 327)
-Mouse__Move__(465, 332)
-Mouse__Move__(483, 343)
-Mouse__Move__(500, 355)
-Mouse__Move__(516, 364)
-Mouse__Move__(533, 371)
-Mouse__Move__(552, 385)
-Mouse__Move__(567, 393)
-Mouse__Move__(579, 400)
-Mouse__Move__(590, 416)
-Mouse__Move__(600, 423)
-Mouse__Move__(608, 430)
-Mouse__Move__(617, 441)
-Mouse__Move__(621, 444)
-Mouse__Move__(626, 450)
-Mouse__Move__(631, 462)
-Mouse__Move__(630, 474)
-Mouse__Move__(632, 486)
-Mouse__Move__(633, 494)
-Mouse__Move__(632, 501)
-Mouse__Move__(631, 510)
-Mouse__Move__(623, 527)
-Mouse__Move__(619, 533)
-Mouse__Move__(608, 541)
-Mouse__Move__(592, 551)
-Mouse__Move__(579, 556)
-Mouse__Move__(566, 558)
-Mouse__Move__(546, 563)
-Mouse__Move__(527, 561)
-Mouse__Move__(517, 560)
-Mouse__Move__(509, 557)
-Mouse__Move__(503, 554)
-Mouse__Move__(490, 546)
-Mouse__Move__(483, 534)
-Mouse__Move__(479, 517)
-Mouse__Move__(473, 502)
-Mouse__Move__(473, 490)
-Mouse__Move__(476, 475)
-Mouse__Move__(484, 463)
-Mouse__Move__(491, 454)
-Mouse__Move__(506, 443)
-Mouse__Move__(523, 434)
-Mouse__Move__(551, 425)
-Mouse__Move__(594, 422)
-Mouse__Move__(650, 418)
-Mouse__Move__(704, 422)
-Mouse__Move__(758, 419)
-Mouse__Move__(797, 427)
-Mouse__Move__(835, 425)
-Mouse__Move__(862, 431)
-Mouse__Move__(879, 433)
-Mouse__Move__(895, 433)
-Mouse__Move__(908, 437)
-Mouse__Move__(914, 439)
-Mouse__Move__(917, 444)
-Mouse__Move__(916, 451)
-Mouse__Move__(939, 459)
-Mouse__Move__(971, 480)
-Mouse__Move__(1055, 528)
-Mouse__Move__(1173, 601)
-Mouse__Move__(1294, 697)
-Mouse__Move__(1365, 767)
-Mouse__Move__(1365, 767)
-Mouse__Move__(1365, 767)
-Mouse__Move__(1365, 767)
-Mouse__Move__(1365, 767)
-Mouse__Move__(1365, 767)
-Mouse__Move__(1362, 767)
-Mouse__Move__(1359, 759)
-Mouse__Move__(1358, 751)
-Mouse__Move__(1350, 739)
-Mouse__Move__(1346, 730)
-Mouse__Move__(1343, 721)
-Mouse__Move__(1340, 716)
-Mouse__Move__(1335, 711)
-Mouse__Move__(1332, 708)
-Mouse__Move__(1327, 704)
-Mouse__Move__(1325, 701)
-Mouse__Move__(1324, 699)
-Mouse__Move__(1322, 697)
-Mouse__Move__(1320, 694)
-Mouse__Move__(1319, 693)
-Mouse__Move__(1318, 691)
-Mouse__Move__(1316, 688)
-Mouse__Move__(1315, 687)
-Mouse__Move__(1317, 684)
-Mouse__Move__(1318, 681)
-Mouse__Move__(1322, 668)
-Mouse__Move__(1323, 666)
-Mouse__Move__(1324, 664)
-Mouse__Move__(1326, 661)
-Mouse__Move__(1326, 661)
-Mouse__Move__(1326, 659)
-Mouse__Move__(1327, 658)
-Mouse__Move__(1328, 658)
-Mouse__Move__(1328, 658)
-Mouse__Move__(1329, 658)
-Mouse__Move__(1330, 658)
-Mouse__Move__(1330, 658)
-Mouse__Move__(1334, 660)
-Mouse__Move__(1337, 662)
-Mouse__Move__(1337, 662)
-Mouse__Move__(1339, 663)
-Mouse__Move__(1340, 666)
-Mouse__Move__(1341, 666)
-Mouse__Move__(1341, 670)
-Mouse__Move__(1342, 671)
-Mouse__Move__(1343, 673)
-Mouse__Move__(1344, 676)
-Mouse__Move__(1344, 677)
-Mouse__Move__(1344, 678)
-Mouse__Move__(1344, 680)
-Mouse__Move__(1342, 682)
-Mouse__Move__(1342, 682)
-Mouse__Move__(1342, 683)
-Mouse__Move__(1341, 684)
-Mouse__Move__(1341, 684)
-Mouse__Move__(1341, 684)
-Mouse__Move__(1341, 684)
-Mouse__Move__(1341, 683)
-Mouse__Move__(1341, 683)
-Mouse__Move__(1340, 682)
-Mouse__Move__(1340, 681)
-Mouse__Move__(1340, 681)
-Mouse__Move__(1339, 681)
-Mouse__Move__(1340, 679)
-Mouse__Move__(1342, 673)
-Mouse__Move__(1344, 667)
-Mouse__Move__(1346, 663)
-Mouse__Move__(1350, 656)
-Mouse__Move__(1352, 651)
-Mouse__Move__(1353, 645)
-Mouse__Move__(1357, 640)
-Mouse__Move__(1360, 632)
-Mouse__Move__(1363, 627)
-Mouse__Move__(1361, 614)
-Mouse__Move__(1365, 603)
-Mouse__Move__(1365, 598)
-Mouse__Move__(1365, 595)
-Mouse__Move__(1365, 592)
-Mouse__Move__(1365, 588)
-Mouse__Move__(1365, 587)
-Mouse__Move__(1365, 586)
-Mouse__Move__(1365, 585)
-Mouse__Move__(1365, 584)
-Mouse__Move__(1365, 585)
-Mouse__Move__(1365, 583)
-Mouse__Move__(1363, 582)
-Mouse__Move__(1363, 581)
-Mouse__Move__(1362, 579)
-Mouse__Move__(1361, 579)
-Mouse__Move__(1360, 577)
-Mouse__Move__(1360, 577)
-Mouse__Move__(1360, 576)
-Mouse__Move__(1359, 575)
-Mouse__Move__(1359, 575)
-Mouse__Move__(1359, 575)
-Mouse__Move__(1359, 572)
-Mouse__Move__(1359, 572)
-Mouse__Move__(1359, 571)
-Mouse__Move__(1359, 570)
-Mouse__Move__(1359, 569)
-Mouse__Move__(1359, 568)
-Mouse__Move__(1360, 567)
-Mouse__Move__(1360, 567)
-Mouse__Move__(1360, 566)
-Mouse__Move__(1360, 566)
-Mouse__Move__(1360, 565)
-Mouse__Move__(1360, 566)
-Mouse__Move__(1360, 567)
-Mouse__Move__(1360, 568)
-Mouse__Move__(1360, 574)
-Mouse__Move__(1359, 580)
-Mouse__Move__(1358, 591)
-Mouse__Move__(1359, 596)
-Mouse__Move__(1359, 600)
-Mouse__Move__(1359, 604)
-Mouse__Move__(1359, 612)
-Mouse__Move__(1360, 626)
-Mouse__Move__(1360, 631)
-Mouse__Move__(1361, 634)
-Mouse__Move__(1361, 639)
-Mouse__Move__(1360, 643)
-Mouse__Move__(1360, 645)
-Mouse__Move__(1360, 649)
-Mouse__Move__(1360, 651)
-Mouse__Move__(1360, 654)
-Mouse__Move__(1361, 656)
-Mouse__Move__(1362, 660)
-Mouse__Move__(1362, 661)
-Mouse__Move__(1360, 667)
-Mouse__Move__(1361, 674)
-Mouse__Move__(1361, 676)
-Mouse__Move__(1364, 683)
-Mouse__Move__(1365, 689)
-Mouse__Move__(1365, 693)
-Mouse__Move__(1365, 696)
-Mouse__Move__(1365, 702)
-Mouse__Move__(1365, 706)
-Mouse__Move__(1365, 709)
-Mouse__Move__(1365, 712)
-Mouse__Move__(1365, 716)
-Mouse__Move__(1364, 718)
-Mouse__Move__(1362, 724)
-Mouse__Move__(1360, 731)
-Mouse__Move__(1361, 739)
-Mouse__Move__(1361, 743)
-Mouse__Move__(1359, 754)
-Mouse__Move__(1359, 760)
-Mouse__Move__(1358, 764)
-Mouse__Move__(1357, 767)
-Mouse__Move__(1357, 767)
-Mouse__Move__(1354, 767)
-Mouse__Move__(1352, 767)
-Mouse__Move__(1350, 767)
-Mouse__Move__(1350, 767)
-Mouse__Move__(1353, 767)
-Mouse__Move__(1353, 767)
-Mouse__Move__(1353, 767)
-Mouse__Move__(1353, 767)
-Mouse__Move__(1353, 767)
-Mouse__Move__(1353, 767)
-Mouse__Move__(1352, 767)
-Mouse__Move__(1352, 767)
-Mouse__Move__(1351, 767)
-Mouse__Move__(1351, 767)
-Mouse__Move__(1352, 767)
-Mouse__Move__(1352, 767)
-Mouse__Move__(1339, 767)
-Mouse__Move__(1338, 761)
-Mouse__Move__(1336, 756)
-Mouse__Move__(1336, 756)
-Mouse__Move__(1336, 755)
-Mouse__Move__(1336, 755)
-Mouse__Move__(1336, 755)
-Mouse__Move__(1336, 755)
-Mouse__Move__(1336, 755)
-Mouse__Move__(1336, 757)
-Mouse__Move__(1336, 757)
-Mouse__Move__(1336, 758)
-Mouse__Move__(1337, 761)
-Mouse__Move__(1336, 764)
-Mouse__Move__(1336, 764)
-Mouse__Move__(1336, 764)
-Mouse__Move__(1333, 766)
-Mouse__Move__(1329, 767)
-Mouse__Move__(1326, 767)
-Mouse__Move__(1317, 767)
-Mouse__Move__(1308, 765)
-Mouse__Move__(1294, 765)
-Mouse__Move__(1281, 761)
-Mouse__Move__(1269, 758)
-Mouse__Move__(1248, 754)
-Mouse__Move__(1228, 753)
-Mouse__Move__(1215, 750)
-Mouse__Move__(1205, 747)
-Mouse__Move__(1186, 742)
-Mouse__Move__(1177, 739)
-Mouse__Move__(1168, 738)
-Mouse__Move__(1164, 736)
-Mouse__Move__(1158, 731)
-Mouse__Move__(1157, 731)
-Mouse__Move__(1152, 718)
-Mouse__Move__(1150, 711)
-Mouse__Move__(1143, 711)
-Mouse__Move__(1135, 711)
-Mouse__Move__(1126, 713)
-Mouse__Move__(1115, 718)
-Mouse__Move__(1105, 721)
-Mouse__Move__(1094, 723)
-Mouse__Move__(1088, 725)
-Mouse__Move__(1082, 726)
-Mouse__Move__(1079, 727)
-Mouse__Move__(1078, 727)
-Mouse__Move__(1075, 731)
-Mouse__Move__(1075, 731)
-Mouse__Move__(1074, 731)
-Mouse__Move__(1074, 731)
-Mouse__Move__(1072, 732)
-Mouse__Move__(1071, 732)
-Mouse__Move__(1070, 732)
-Mouse__Move__(1069, 732)
-Mouse__Move__(1068, 732)
-Mouse__Move__(1068, 733)
-Mouse__Move__(1067, 734)
-Mouse__Move__(1068, 730)
-Mouse__Move__(1064, 727)
-Mouse__Move__(1058, 724)
-Mouse__Move__(1049, 720)
-Mouse__Move__(1040, 713)
-Mouse__Move__(1024, 696)
-Mouse__Move__(1000, 681)
-Mouse__Move__(979, 663)
-Mouse__Move__(949, 636)
-Mouse__Move__(916, 608)
-Mouse__Move__(892, 581)
-Mouse__Move__(865, 559)
-Mouse__Move__(846, 537)
-Mouse__Move__(832, 523)
-Mouse__Move__(825, 515)
-Mouse__Move__(819, 506)
-Mouse__Move__(816, 502)
-Mouse__Move__(810, 491)
-Mouse__Move__(800, 484)
-Mouse__Move__(785, 474)
-Mouse__Move__(772, 463)
-Mouse__Move__(758, 453)
-Mouse__Move__(734, 439)
-Mouse__Move__(710, 420)
-Mouse__Move__(687, 401)
-Mouse__Move__(665, 384)
-Mouse__Move__(644, 364)
-Mouse__Move__(630, 352)
-Mouse__Move__(616, 340)
-Mouse__Move__(606, 330)
-Mouse__Move__(602, 327)
-Mouse__Move__(600, 326)
-Mouse__Move__(598, 324)
-Mouse__Move__(586, 324)
-Mouse__Move__(570, 319)
-Mouse__Move__(543, 314)
-Mouse__Move__(522, 312)
-Mouse__Move__(504, 306)
-Mouse__Move__(480, 303)
-Mouse__Move__(469, 300)
-Mouse__Move__(462, 300)
-Mouse__Move__(454, 302)
-Mouse__Move__(453, 302)
-Mouse__Move__(455, 305)
-Mouse__Move__(447, 302)
-Mouse__Move__(442, 302)
-Mouse__Move__(439, 302)
-Mouse__Move__(434, 302)
-Mouse__Move__(429, 301)
-Mouse__Move__(425, 301)
-Mouse__Move__(422, 300)
-Mouse__Move__(420, 301)
-Mouse__Move__(414, 303)
-Mouse__Move__(412, 303)
-Mouse__Move__(410, 304)
-Mouse__Move__(408, 305)
-Mouse__Move__(407, 304)
-Mouse__Move__(406, 304)
-Mouse__Move__(404, 304)
-Mouse__Move__(403, 304)
-Mouse__Move__(401, 303)
-Mouse__Move__(399, 301)
-Mouse__Move__(399, 301)
-Mouse__Move__(399, 301)
-Mouse__Move__(398, 301)
+[
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(439, 308)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(453, 310)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(469, 313)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(485, 317)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(504, 319)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(528, 323)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(550, 327)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(572, 333)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(592, 339)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(612, 349)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(627, 359)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(643, 370)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(658, 384)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(672, 398)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(684, 413)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(693, 428)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(702, 443)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(709, 456)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(713, 467)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(716, 478)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(717, 489)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(719, 497)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 506)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 512)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 519)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 525)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 531)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(718, 536)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(713, 540)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(708, 543)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(705, 546)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(700, 548)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(695, 549)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(692, 550)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(689, 551)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(687, 551)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(685, 551)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(683, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(682, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(680, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(679, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(678, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(676, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(674, 551)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(672, 550)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(670, 548)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(668, 546)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(666, 544)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(664, 542)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(663, 541)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(663, 540)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(662, 540)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(662, 539)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(661, 539)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(661, 538)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(660, 537)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(659, 536)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(658, 534)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(657, 531)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(655, 529)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(654, 527)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(652, 523)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(649, 519)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(646, 515)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(643, 510)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(640, 505)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(638, 500)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(636, 497)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(635, 495)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(635, 492)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(634, 490)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(634, 488)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(634, 486)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(634, 485)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(637, 483)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(643, 482)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(652, 480)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(665, 480)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(681, 480)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(692, 480)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(701, 480)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(708, 482)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(711, 483)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(713, 485)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(716, 489)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 494)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(723, 501)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(725, 507)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(728, 515)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(729, 524)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(729, 532)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(728, 541)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(725, 547)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(720, 556)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(712, 564)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(704, 570)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(696, 574)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(685, 579)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(674, 582)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(663, 582)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(652, 582)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(641, 577)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(632, 571)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(622, 563)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(614, 549)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(607, 536)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(601, 523)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(600, 515)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(599, 507)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(600, 501)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(604, 494)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(612, 490)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(623, 488)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(634, 487)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(641, 487)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(647, 491)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(653, 496)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(655, 503)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(658, 515)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(660, 524)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(660, 534)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(660, 545)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(657, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(651, 559)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(641, 565)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(627, 570)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(611, 574)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(592, 574)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(570, 574)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(548, 570)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(524, 564)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(500, 552)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(474, 538)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(446, 518)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(420, 498)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(400, 476)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(384, 456)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(372, 436)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(362, 418)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(357, 400)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(353, 384)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(351, 370)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(350, 361)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(348, 352)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(347, 346)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 341)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 339)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 337)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 336)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 335)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 334)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 333)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 332)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 331)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 330)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(346, 328)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(347, 327)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(348, 326)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(348, 325)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(350, 324)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(351, 323)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(352, 322)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(353, 322)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(354, 321)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(355, 321)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(356, 321)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(357, 321)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(358, 320)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(359, 320)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(360, 319)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(362, 319)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(363, 318)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(364, 318)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(365, 318)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(365, 317)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(365, 317)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(366, 317)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "coordinate": "(366, 317)"
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": "(367, 317)"
+    }
+]

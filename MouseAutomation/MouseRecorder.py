@@ -8,22 +8,29 @@ import sys
 
 class MouseRecorder:
     def __init__(self, storage_file):
-        self.storage= StorageController(storage_file, dlm='__')
+        #Setting storage file. 
+        self.storage= StorageController(storage_file)
 
     # This is a mouse mouse even lister function. 
     # It will be called when mouse's cursor is moved.
     def onMouseMove(self, x, y):
         a= {"source":"Mouse",
         "action":"Move",
-        "detail":str((x,y))}
+        "coordinate":str((x,y))}
         print(a)
         self.storage.store(a)
-
-    # This is mouse click event listener function.
-    # It will be called when mouse is clicked or released
-    def onMouseClick(self, x, y, click_side, is_pressed):
-        s= 'L' if (click_side== mouse.Button.left) else 'R'
-        p= 'P' if is_pressed else 'R'
+    
+    # This method will execute when mouse is clicked
+    def onMouseClick(self, x, y, button, pressed):
+        mouse_button= "L" if button == mouse.Button.left else  "R"
+        is_pressed= "Y" if pressed else "N"
+        coordinate= str((x,y))
+        self.storage.store({
+            "source":"Mouse",
+            "action":"Click",
+            "isPressed": is_pressed,
+            "coordinate": coordinate
+        })
 
 # main module of MouseRecord
 if __name__ == '__main__':
@@ -34,13 +41,20 @@ if __name__ == '__main__':
     input= confirm("Mouse Automation",buttons=buttons )
     
     if input == buttons[0]:
+        # Creating mouse events. on_move event will call the function whenever mouse moves.
         listener= mouse.Listener(
             on_move= mRecorder.onMouseMove,
-            on_click= mRecorder.onMouseClick)
+            on_click=mRecorder.onMouseClick
+            )
+        # starting the listener thread. 
         listener.start()
-        input= confirm("Mouse Automation",buttons=["Stop","Quit"])
-        if input== "Stop":
+
+        # Main thread Waiting for user to stop recording.
+        input= confirm("Mouse Automation",buttons=["Stop Recording","Quit"])
+        
+        if input== "Stop Recording":
             mRecorder.storage.close()
+            print("Stopping Recording")
             listener.stop()
             sys.exit(0)
     

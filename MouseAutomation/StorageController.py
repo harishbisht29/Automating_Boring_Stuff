@@ -2,26 +2,24 @@
 # all the mouse and keyborad actions.
 
 from os.path import exists
+import json
 
 class StorageController:
 
-    def __init__(self, file, dlm='__'):
+    def __init__(self, file):
         if exists(file):
             print("Storage file named {} already exists. Truncating its contents..".format(file))
             open(file, "w+").close()
         self.storage= open(file,"a+")
-        self.dlm= dlm
-
+        self.data = []
     # store function will store movement to storage file
     def store(self, movement):
-        source= movement['source']
-        action= movement['action']
-        detail= movement['detail']
-        fline=  source + self.dlm + action + self.dlm + detail
-        self.storage.write(fline+ "\n")
+        self.data.append(movement)
 
     #close storage file 
     def close(self):
+        # Store all the recordings to json file
+        json.dump(self.data, self.storage, indent=4)
         self.storage.close()
 
     def __del__(self):
