@@ -12,25 +12,36 @@ class MouseRecorder:
         self.storage= StorageController(storage_file)
 
     # This is a mouse mouse even lister function. 
-    # It will be called when mouse's cursor is moved.
+    # It will be called when mouse is moved.
     def onMouseMove(self, x, y):
-        a= {"source":"Mouse",
-        "action":"Move",
-        "coordinate":str((x,y))}
-        print(a)
-        self.storage.store(a)
+        # capture the coordinate at which button was clicked
+        coordinate= (x,y)
+        movement= {
+            "source":"Mouse",
+            "action":"Move",
+            "coordinate":coordinate
+        }
+        print(movement)
+        self.storage.store(movement)
     
     # This method will execute when mouse is clicked
     def onMouseClick(self, x, y, button, pressed):
+        # capture if the botton is left("L") or right("R")
         mouse_button= "L" if button == mouse.Button.left else  "R"
+        # capture if button is pressed("Y") or released ("R")
         is_pressed= "Y" if pressed else "N"
-        coordinate= str((x,y))
-        self.storage.store({
+        # capture the coordinate at which button was clicked
+        coordinate= (x,y)
+        movement= {
             "source":"Mouse",
             "action":"Click",
             "isPressed": is_pressed,
+            "button":mouse_button,
             "coordinate": coordinate
-        })
+        }
+        print(movement)
+        # store
+        self.storage.store(movement)
 
 # main module of MouseRecord
 if __name__ == '__main__':

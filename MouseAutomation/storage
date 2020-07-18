@@ -2,897 +2,4819 @@
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(439, 308)"
+        "coordinate": [
+            1071,
+            334
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(453, 310)"
+        "coordinate": [
+            1065,
+            334
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(469, 313)"
+        "coordinate": [
+            1060,
+            335
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(485, 317)"
+        "coordinate": [
+            1058,
+            335
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(504, 319)"
+        "coordinate": [
+            1055,
+            335
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(528, 323)"
+        "coordinate": [
+            1052,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(550, 327)"
+        "coordinate": [
+            1050,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(572, 333)"
+        "coordinate": [
+            1048,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(592, 339)"
+        "coordinate": [
+            1046,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(612, 349)"
+        "coordinate": [
+            1045,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(627, 359)"
+        "coordinate": [
+            1044,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(643, 370)"
+        "coordinate": [
+            1043,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(658, 384)"
+        "coordinate": [
+            1042,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(672, 398)"
+        "coordinate": [
+            1041,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(684, 413)"
+        "coordinate": [
+            1041,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(693, 428)"
+        "coordinate": [
+            1040,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(702, 443)"
+        "coordinate": [
+            1039,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(709, 456)"
+        "coordinate": [
+            1038,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(713, 467)"
+        "coordinate": [
+            1037,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(716, 478)"
+        "coordinate": [
+            1036,
+            336
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(717, 489)"
+        "coordinate": [
+            1036,
+            337
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(719, 497)"
+        "coordinate": [
+            1036,
+            337
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 506)"
+        "coordinate": [
+            1036,
+            339
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 512)"
+        "coordinate": [
+            1036,
+            341
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 519)"
+        "coordinate": [
+            1036,
+            342
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 525)"
+        "coordinate": [
+            1036,
+            343
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 531)"
+        "coordinate": [
+            1036,
+            344
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(718, 536)"
+        "coordinate": [
+            1036,
+            345
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(713, 540)"
+        "coordinate": [
+            1035,
+            346
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(708, 543)"
+        "coordinate": [
+            1035,
+            347
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(705, 546)"
+        "coordinate": [
+            1035,
+            348
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(700, 548)"
+        "coordinate": [
+            1034,
+            350
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(695, 549)"
+        "coordinate": [
+            1034,
+            351
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(692, 550)"
+        "coordinate": [
+            1034,
+            352
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(689, 551)"
+        "coordinate": [
+            1033,
+            354
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(687, 551)"
+        "coordinate": [
+            1033,
+            355
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(685, 551)"
+        "coordinate": [
+            1033,
+            356
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(683, 552)"
+        "coordinate": [
+            1032,
+            357
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(682, 552)"
+        "coordinate": [
+            1032,
+            358
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(680, 552)"
+        "coordinate": [
+            1031,
+            359
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(679, 552)"
+        "coordinate": [
+            1031,
+            360
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(678, 552)"
+        "coordinate": [
+            1030,
+            361
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(676, 552)"
+        "coordinate": [
+            1030,
+            362
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(674, 551)"
+        "coordinate": [
+            1029,
+            363
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(672, 550)"
+        "coordinate": [
+            1029,
+            364
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(670, 548)"
+        "coordinate": [
+            1028,
+            365
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(668, 546)"
+        "coordinate": [
+            1028,
+            366
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(666, 544)"
+        "coordinate": [
+            1027,
+            367
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(664, 542)"
+        "coordinate": [
+            1027,
+            368
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(663, 541)"
+        "coordinate": [
+            1026,
+            369
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(663, 540)"
+        "coordinate": [
+            1025,
+            370
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(662, 540)"
+        "coordinate": [
+            1024,
+            371
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(662, 539)"
+        "coordinate": [
+            1024,
+            372
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(661, 539)"
+        "coordinate": [
+            1023,
+            373
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(661, 538)"
+        "coordinate": [
+            1022,
+            373
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(660, 537)"
+        "coordinate": [
+            1021,
+            374
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(659, 536)"
+        "coordinate": [
+            1021,
+            375
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(658, 534)"
+        "coordinate": [
+            1020,
+            375
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(657, 531)"
+        "coordinate": [
+            1019,
+            376
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(655, 529)"
+        "coordinate": [
+            1017,
+            377
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(654, 527)"
+        "coordinate": [
+            1016,
+            377
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(652, 523)"
+        "coordinate": [
+            1015,
+            378
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(649, 519)"
+        "coordinate": [
+            1014,
+            378
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(646, 515)"
+        "coordinate": [
+            1013,
+            378
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(643, 510)"
+        "coordinate": [
+            1012,
+            379
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(640, 505)"
+        "coordinate": [
+            1011,
+            379
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(638, 500)"
+        "coordinate": [
+            1009,
+            380
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(636, 497)"
+        "coordinate": [
+            1008,
+            380
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(635, 495)"
+        "coordinate": [
+            1006,
+            381
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(635, 492)"
+        "coordinate": [
+            1004,
+            381
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(634, 490)"
+        "coordinate": [
+            1002,
+            382
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(634, 488)"
+        "coordinate": [
+            1000,
+            382
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(634, 486)"
+        "coordinate": [
+            998,
+            383
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(634, 485)"
+        "coordinate": [
+            996,
+            383
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(637, 483)"
+        "coordinate": [
+            994,
+            384
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(643, 482)"
+        "coordinate": [
+            992,
+            384
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(652, 480)"
+        "coordinate": [
+            990,
+            384
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(665, 480)"
+        "coordinate": [
+            988,
+            385
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(681, 480)"
+        "coordinate": [
+            987,
+            385
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(692, 480)"
+        "coordinate": [
+            985,
+            385
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(701, 480)"
+        "coordinate": [
+            983,
+            386
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(708, 482)"
+        "coordinate": [
+            982,
+            386
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(711, 483)"
+        "coordinate": [
+            980,
+            386
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(713, 485)"
+        "coordinate": [
+            978,
+            386
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(716, 489)"
+        "coordinate": [
+            976,
+            387
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 494)"
+        "coordinate": [
+            973,
+            387
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(723, 501)"
+        "coordinate": [
+            971,
+            387
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(725, 507)"
+        "coordinate": [
+            969,
+            388
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(728, 515)"
+        "coordinate": [
+            967,
+            388
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(729, 524)"
+        "coordinate": [
+            964,
+            389
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(729, 532)"
+        "coordinate": [
+            962,
+            389
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(728, 541)"
+        "coordinate": [
+            959,
+            390
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(725, 547)"
+        "coordinate": [
+            957,
+            390
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(720, 556)"
+        "coordinate": [
+            954,
+            391
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(712, 564)"
+        "coordinate": [
+            951,
+            391
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(704, 570)"
+        "coordinate": [
+            948,
+            392
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(696, 574)"
+        "coordinate": [
+            946,
+            392
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(685, 579)"
+        "coordinate": [
+            943,
+            393
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(674, 582)"
+        "coordinate": [
+            941,
+            393
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(663, 582)"
+        "coordinate": [
+            938,
+            394
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(652, 582)"
+        "coordinate": [
+            936,
+            394
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(641, 577)"
+        "coordinate": [
+            933,
+            394
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(632, 571)"
+        "coordinate": [
+            930,
+            395
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(622, 563)"
+        "coordinate": [
+            926,
+            395
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(614, 549)"
+        "coordinate": [
+            922,
+            395
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(607, 536)"
+        "coordinate": [
+            918,
+            396
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(601, 523)"
+        "coordinate": [
+            915,
+            396
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(600, 515)"
+        "coordinate": [
+            912,
+            396
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(599, 507)"
+        "coordinate": [
+            908,
+            397
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(600, 501)"
+        "coordinate": [
+            906,
+            397
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(604, 494)"
+        "coordinate": [
+            902,
+            397
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(612, 490)"
+        "coordinate": [
+            899,
+            398
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(623, 488)"
+        "coordinate": [
+            897,
+            398
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(634, 487)"
+        "coordinate": [
+            893,
+            399
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(641, 487)"
+        "coordinate": [
+            890,
+            399
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(647, 491)"
+        "coordinate": [
+            887,
+            399
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(653, 496)"
+        "coordinate": [
+            884,
+            399
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(655, 503)"
+        "coordinate": [
+            882,
+            399
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(658, 515)"
+        "coordinate": [
+            880,
+            400
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(660, 524)"
+        "coordinate": [
+            877,
+            400
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(660, 534)"
+        "coordinate": [
+            875,
+            400
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(660, 545)"
+        "coordinate": [
+            873,
+            401
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(657, 552)"
+        "coordinate": [
+            871,
+            401
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(651, 559)"
+        "coordinate": [
+            869,
+            402
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(641, 565)"
+        "coordinate": [
+            866,
+            402
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(627, 570)"
+        "coordinate": [
+            864,
+            402
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(611, 574)"
+        "coordinate": [
+            862,
+            403
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(592, 574)"
+        "coordinate": [
+            860,
+            403
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(570, 574)"
+        "coordinate": [
+            857,
+            403
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(548, 570)"
+        "coordinate": [
+            855,
+            404
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(524, 564)"
+        "coordinate": [
+            853,
+            404
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(500, 552)"
+        "coordinate": [
+            851,
+            405
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(474, 538)"
+        "coordinate": [
+            849,
+            405
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(446, 518)"
+        "coordinate": [
+            847,
+            406
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(420, 498)"
+        "coordinate": [
+            845,
+            407
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(400, 476)"
+        "coordinate": [
+            843,
+            407
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(384, 456)"
+        "coordinate": [
+            840,
+            408
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(372, 436)"
+        "coordinate": [
+            837,
+            409
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(362, 418)"
+        "coordinate": [
+            834,
+            409
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(357, 400)"
+        "coordinate": [
+            832,
+            410
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(353, 384)"
+        "coordinate": [
+            829,
+            410
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(351, 370)"
+        "coordinate": [
+            827,
+            411
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(350, 361)"
+        "coordinate": [
+            825,
+            412
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(348, 352)"
+        "coordinate": [
+            822,
+            413
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(347, 346)"
+        "coordinate": [
+            820,
+            413
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 341)"
+        "coordinate": [
+            817,
+            414
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 339)"
+        "coordinate": [
+            814,
+            414
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 337)"
+        "coordinate": [
+            812,
+            415
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 336)"
+        "coordinate": [
+            810,
+            416
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 335)"
+        "coordinate": [
+            808,
+            416
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 334)"
+        "coordinate": [
+            805,
+            417
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 333)"
+        "coordinate": [
+            803,
+            417
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 332)"
+        "coordinate": [
+            800,
+            418
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 331)"
+        "coordinate": [
+            798,
+            419
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 330)"
+        "coordinate": [
+            795,
+            419
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(346, 328)"
+        "coordinate": [
+            792,
+            420
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(347, 327)"
+        "coordinate": [
+            790,
+            421
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(348, 326)"
+        "coordinate": [
+            788,
+            421
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(348, 325)"
+        "coordinate": [
+            786,
+            422
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(350, 324)"
+        "coordinate": [
+            785,
+            423
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(351, 323)"
+        "coordinate": [
+            783,
+            423
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(352, 322)"
+        "coordinate": [
+            781,
+            424
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(353, 322)"
+        "coordinate": [
+            780,
+            425
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(354, 321)"
+        "coordinate": [
+            778,
+            425
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(355, 321)"
+        "coordinate": [
+            776,
+            426
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(356, 321)"
+        "coordinate": [
+            774,
+            427
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(357, 321)"
+        "coordinate": [
+            773,
+            428
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(358, 320)"
+        "coordinate": [
+            771,
+            428
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(359, 320)"
+        "coordinate": [
+            770,
+            429
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(360, 319)"
+        "coordinate": [
+            769,
+            430
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(362, 319)"
+        "coordinate": [
+            767,
+            430
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(363, 318)"
+        "coordinate": [
+            766,
+            431
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(364, 318)"
+        "coordinate": [
+            765,
+            432
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(365, 318)"
+        "coordinate": [
+            763,
+            433
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(365, 317)"
+        "coordinate": [
+            762,
+            434
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(365, 317)"
+        "coordinate": [
+            761,
+            435
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(366, 317)"
+        "coordinate": [
+            759,
+            435
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            758,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            757,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            756,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            754,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            752,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            750,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            748,
+            434
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            748,
+            432
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            747,
+            430
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            747,
+            429
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            747,
+            428
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            747,
+            429
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            747,
+            432
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            744,
+            437
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            743,
+            440
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            741,
+            443
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            739,
+            445
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            738,
+            447
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            737,
+            448
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            735,
+            450
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            733,
+            451
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            732,
+            453
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            731,
+            455
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            729,
+            457
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            726,
+            459
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            724,
+            461
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            722,
+            464
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            719,
+            467
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            717,
+            469
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            714,
+            472
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            712,
+            474
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            710,
+            477
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            708,
+            479
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            706,
+            481
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            702,
+            483
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            700,
+            486
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            698,
+            488
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            695,
+            490
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            693,
+            492
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            690,
+            494
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            688,
+            496
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            685,
+            498
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            683,
+            500
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            681,
+            501
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            678,
+            502
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            675,
+            504
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            672,
+            505
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            669,
+            506
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            666,
+            506
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            662,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            657,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            653,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            650,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            647,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            644,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            641,
+            507
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            638,
+            506
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            635,
+            506
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            629,
+            504
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            627,
+            503
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            624,
+            502
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            622,
+            501
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            620,
+            500
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            619,
+            499
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            618,
+            499
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            618,
+            498
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            617,
+            498
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            617,
+            497
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            616,
+            496
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            616,
+            495
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            615,
+            494
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            615,
+            493
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            492
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            491
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            490
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            489
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            488
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            487
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            486
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            615,
+            485
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            617,
+            483
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            620,
+            483
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            623,
+            482
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            627,
+            481
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            632,
+            481
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            637,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            642,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            648,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            651,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            654,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            656,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            659,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            661,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            663,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            664,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            666,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            667,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            668,
+            481
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            670,
+            481
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            671,
+            482
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            672,
+            482
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            673,
+            483
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            675,
+            484
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            676,
+            484
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            677,
+            485
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            678,
+            486
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            679,
+            487
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            680,
+            488
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            680,
+            489
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            681,
+            490
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            682,
+            491
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            683,
+            492
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            684,
+            494
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            685,
+            497
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            686,
+            499
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            687,
+            501
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            688,
+            504
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            689,
+            506
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            689,
+            508
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            690,
+            510
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            690,
+            512
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            690,
+            514
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            516
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            518
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            519
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            521
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            522
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            523
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            524
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            526
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            527
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            691,
+            528
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            690,
+            529
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            690,
+            530
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            689,
+            531
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            688,
+            532
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            687,
+            534
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            686,
+            534
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            685,
+            535
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            684,
+            536
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            683,
+            537
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            681,
+            538
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            680,
+            538
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            678,
+            539
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            677,
+            539
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            676,
+            539
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            674,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            673,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            671,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            669,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            667,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            665,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            663,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            660,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            658,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            656,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            654,
+            540
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            652,
+            539
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            649,
+            539
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            647,
+            539
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            644,
+            538
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            641,
+            538
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            638,
+            537
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            635,
+            537
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            632,
+            536
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            629,
+            535
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            626,
+            534
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            624,
+            534
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            622,
+            533
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            621,
+            533
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            620,
+            532
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            619,
+            531
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            618,
+            531
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            617,
+            530
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            616,
+            530
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            614,
+            529
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            612,
+            528
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            611,
+            527
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            609,
+            526
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            607,
+            525
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            604,
+            524
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            603,
+            523
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            601,
+            522
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            600,
+            521
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            598,
+            520
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            597,
+            519
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            595,
+            518
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            594,
+            517
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            593,
+            516
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            591,
+            515
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            590,
+            514
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            588,
+            513
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            587,
+            512
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            585,
+            510
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            583,
+            509
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            582,
+            508
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            580,
+            506
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            578,
+            505
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            577,
+            503
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            575,
+            502
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            574,
+            501
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            573,
+            500
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            572,
+            499
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            571,
+            498
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            570,
+            497
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            569,
+            496
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            568,
+            494
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            567,
+            493
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            566,
+            492
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            564,
+            491
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            563,
+            490
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            562,
+            489
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            561,
+            487
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            559,
+            486
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            558,
+            485
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            557,
+            484
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            556,
+            483
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            556,
+            482
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            555,
+            482
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            554,
+            481
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            553,
+            480
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            552,
+            479
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            551,
+            478
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            550,
+            477
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            549,
+            476
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            548,
+            475
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            547,
+            474
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            546,
+            472
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            545,
+            471
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            543,
+            470
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            542,
+            468
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            541,
+            467
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            540,
+            466
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            538,
+            463
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            536,
+            462
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            534,
+            460
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            533,
+            459
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            531,
+            457
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            529,
+            455
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            527,
+            454
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            526,
+            453
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            525,
+            452
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            524,
+            451
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            523,
+            450
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            522,
+            449
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            521,
+            448
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            520,
+            447
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            520,
+            446
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            519,
+            445
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            518,
+            444
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            517,
+            443
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            516,
+            442
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            441
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            440
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            513,
+            438
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            512,
+            437
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            511,
+            436
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            510,
+            434
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            509,
+            433
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            508,
+            432
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            507,
+            430
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            506,
+            429
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            506,
+            428
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            505,
+            427
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            504,
+            426
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            503,
+            425
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            502,
+            423
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            501,
+            422
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            500,
+            421
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            499,
+            420
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            498,
+            418
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            497,
+            417
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            496,
+            416
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            495,
+            414
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            493,
+            411
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            492,
+            409
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            491,
+            408
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            490,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            489,
+            405
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            488,
+            403
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            487,
+            402
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            486,
+            400
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            485,
+            399
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            484,
+            398
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            483,
+            397
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            482,
+            396
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            482,
+            395
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            481,
+            394
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            480,
+            393
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            479,
+            392
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            479,
+            391
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            478,
+            390
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            478,
+            389
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            477,
+            388
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            477,
+            387
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            477,
+            386
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            476,
+            386
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            477,
+            386
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            482,
+            389
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            487,
+            391
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            493,
+            394
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            497,
+            396
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            500,
+            398
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            503,
+            400
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            505,
+            401
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            506,
+            401
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            506,
+            402
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            507,
+            402
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            508,
+            403
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            509,
+            403
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            510,
+            404
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            511,
+            405
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            513,
+            405
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            513,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            406
+        ]
     },
     {
         "source": "Mouse",
         "action": "Click",
         "isPressed": "Y",
-        "coordinate": "(366, 317)"
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "L",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "N",
+        "button": "R",
+        "coordinate": [
+            514,
+            406
+        ]
     },
     {
         "source": "Mouse",
         "action": "Move",
-        "coordinate": "(367, 317)"
+        "coordinate": [
+            514,
+            405
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            403
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            400
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            398
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            396
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            394
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            392
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            390
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            388
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            386
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            385
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            383
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            382
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            381
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            380
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            379
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            378
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            377
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            375
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            373
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            371
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            515,
+            369
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            366
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            514,
+            364
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            513,
+            361
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            513,
+            358
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            512,
+            356
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            511,
+            353
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            510,
+            351
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            509,
+            349
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            509,
+            348
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            508,
+            346
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            507,
+            345
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            506,
+            344
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            505,
+            343
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            504,
+            341
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            502,
+            339
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            500,
+            337
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            498,
+            335
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            495,
+            333
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            492,
+            331
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            490,
+            330
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            488,
+            329
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            485,
+            328
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            484,
+            327
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            483,
+            326
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            482,
+            326
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            481,
+            325
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            480,
+            325
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            479,
+            324
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            477,
+            324
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            476,
+            323
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            475,
+            323
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            474,
+            323
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            473,
+            322
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            471,
+            322
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            470,
+            321
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            469,
+            321
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            467,
+            321
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            466,
+            320
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            465,
+            320
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            464,
+            320
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            463,
+            320
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            462,
+            319
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            461,
+            319
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            460,
+            319
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            459,
+            318
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            458,
+            318
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            457,
+            318
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            455,
+            317
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            454,
+            317
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            453,
+            317
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            452,
+            316
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            451,
+            315
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            449,
+            315
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            447,
+            314
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            446,
+            314
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            444,
+            313
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            443,
+            312
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            442,
+            312
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            441,
+            312
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            441,
+            311
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            440,
+            311
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            440,
+            310
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            439,
+            310
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            438,
+            309
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            437,
+            309
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            437,
+            308
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Move",
+        "coordinate": [
+            436,
+            308
+        ]
+    },
+    {
+        "source": "Mouse",
+        "action": "Click",
+        "isPressed": "Y",
+        "button": "L",
+        "coordinate": [
+            436,
+            308
+        ]
     }
 ]
